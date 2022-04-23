@@ -19,7 +19,8 @@ def app():
 
 
     #Reading the data
-    df=pd.read_csv("online_shoppers_intention.csv")
+    #df=pd.read_csv("online_shoppers_intention.csv")
+    df=pd.read_csv("D:/TISS/SEM4/dissertation/online_shoppers_intention.csv")
 
 
     #display the data as a table
